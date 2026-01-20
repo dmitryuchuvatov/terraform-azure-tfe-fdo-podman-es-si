@@ -12,7 +12,7 @@ This repository creates a new installation of TFE FDO in External Services mode 
 
 # Diagram
 
-
+![Diagram](diagram/tfe_fdo_on_podman_in_external_services_mode.png)
 
 # How To
 
